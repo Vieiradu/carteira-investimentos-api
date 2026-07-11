@@ -6,7 +6,7 @@ Carteira de investimentos com **Django REST Framework** e **PostgreSQL**. O usu�
 cadastra seus ativos e transações; a API calcula a posição atual cruzando com
 cotações externas (brapi.dev). CRUD completo, autenticação JWT, testes e CI/CD.
 
-## 🧭 Match com o roadmap (do meu tech lead)
+## 🧭 Match com o roadmap
 | Ponto do roadmap | Como este projeto cobre |
 |---|---|
 | Banco relacional — JOINs, indexes, uniques (P1) | Postgres + models User ↔ Ativo ↔ Transação |
